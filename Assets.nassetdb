@@ -1,0 +1,1249 @@
+{
+    "0193b243-5bc2-75b3-4436-f3c5372196a6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b243-5bde-7eaf-7970-e60d5d47b763",
+            "0193b243-5beb-74a2-ff05-c732acb472ba",
+            "0193b243-5beb-75a3-4804-1d764ee000f0",
+            "0193b243-5beb-71a0-40be-db2c6ab259d9",
+            "0193b243-5bec-7284-d199-4ef2ee125214",
+            "0193b243-5bec-77ac-c269-da3b9dcee4db",
+            "0193b243-5bec-749a-2c07-5c5de91b19b4",
+            "0193b243-5bec-7595-b388-2bb17008be6a",
+            "0193b243-5bec-7d98-37ed-54ded7c32415",
+            "0193b243-5bec-7685-bd78-93c2eaca61bf",
+            "0193b243-5bec-7e8a-3a35-7bf68eedac82",
+            "0193b243-5bec-79a3-c452-ce0e3ae86f5b",
+            "0193b243-5bec-76a3-638a-c3be2456991a",
+            "0193b243-5bec-7598-7f53-412e33165e81",
+            "0193b243-5bec-7892-2ed5-dc288b5b472f",
+            "0193b243-5bec-7295-f8a0-16c870b776da",
+            "0193b243-5bed-76a9-58c2-d0a3deb8c620",
+            "0193b243-5bed-7082-e2f5-2922e409ad22",
+            "0193b243-5bed-72a6-aa1b-c479cf440312",
+            "0193b243-5bed-70b2-94bd-774be462e74e",
+            "0193b243-5bed-788b-d250-6787c0547a97",
+            "0193b243-5bed-788f-5677-00c176ed004f",
+            "0193b243-5bed-7393-7cb1-8b144fcec8df",
+            "0193b243-5bed-7d88-baea-0dcd1a5fd9fa",
+            "0193b243-5bed-74b5-fdb1-7e3e063c961f",
+            "0193b243-5bed-7dba-187a-2c486b3d347c",
+            "0193b243-5bed-739b-4086-1dd7abe84a8b",
+            "0193b243-5bed-7fb0-15b8-b3c0dd5c32fb",
+            "0193b243-5bed-7d81-a6b9-242c8ae50df1",
+            "0193b243-5bed-72b2-25d0-42967d81efb0",
+            "0193b243-5bee-79ac-35d2-84f945e40645",
+            "0193b243-5bee-79bf-4bba-22fc80adbffb",
+            "0193b243-5bee-7ca8-93b0-65efda91db26",
+            "0193b243-5bee-79ae-cc82-0ba7f116aed4",
+            "0193b243-5bee-75a2-3e89-f47c6d590fbd",
+            "0193b243-5bee-7891-7bd8-b9e10e749f15",
+            "0193b243-5bee-7db5-6208-6af7578e377b",
+            "0193b243-5bee-7bab-3cf8-7d69a48ffbdb",
+            "0193b243-5bee-779b-7a9e-5937e9c53597",
+            "0193b243-5bee-7bbe-ca67-76499ab9a409",
+            "0193b243-5bee-7fb9-2e16-c241ea96b3fc",
+            "0193b243-5bee-7e89-ceea-7d594ef9a781",
+            "0193b243-5bee-7cbf-1e68-e51fd2aae3b1",
+            "0193b243-5bee-76b9-89af-7d01cc3db8a2",
+            "0193b243-5bee-7098-8c7c-37e2c7b9c707",
+            "0193b243-5bef-7083-f27a-728d6a83f6e6"
+        ]
+    },
+    "0193b243-5bde-70b9-4c56-5f67a307840d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Hatchback Body.mesh.nasset/Hatchback Body City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bde-75af-a0c7-d037ff31d0c0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/City Bits.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b243-5beb-7c9e-d26a-61636561f1b2"
+        ]
+    },
+    "0193b243-5bde-7eaf-7970-e60d5d47b763": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Hatchback Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bde-70b9-4c56-5f67a307840d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-71a0-40be-db2c6ab259d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Police Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5beb-7aa9-0cd1-1c7266208638",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-74a2-ff05-c732acb472ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Hatchback Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5beb-7ba9-42c3-cd7b99b07e79",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-75a3-4804-1d764ee000f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Police Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5beb-7dab-c3f8-05d0892151e5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-7aa9-0cd1-1c7266208638": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Police Wheel.mesh.nasset/Police Wheel City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-7ba9-42c3-cd7b99b07e79": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Hatchback Wheel.mesh.nasset/Hatchback Wheel City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5beb-7c9e-d26a-61636561f1b2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_City_Bits_D.tex.nasset"
+    },
+    "0193b243-5beb-7dab-c3f8-05d0892151e5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Police Body.mesh.nasset/Police Body City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7187-f114-583c3ca1bc32": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Stationwagon Body.mesh.nasset/Stationwagon Body City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7281-4106-1e8583702ff1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Sedan Wheel.mesh.nasset/Sedan Wheel City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7282-30c2-d35e41aa97a6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Corner Curved.mesh.nasset/Road Corner Curved City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7284-d199-4ef2ee125214": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Sedan Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-73a5-7d57-8167041c64c2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7291-d5bf-bfedbe00fec1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Stationwagon Wheel.mesh.nasset/Stationwagon Wheel City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7295-f8a0-16c870b776da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Junction.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-75be-4726-a75063af2609",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-73a5-7d57-8167041c64c2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Sedan Body.mesh.nasset/Sedan Body City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7484-2d6e-acb483c6a380": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road T Split.mesh.nasset/Road T Split City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-749a-2c07-5c5de91b19b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Stationwagon Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7187-f114-583c3ca1bc32",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7595-b388-2bb17008be6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Stationwagon Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7291-d5bf-bfedbe00fec1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7598-7f53-412e33165e81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Straight Crossing.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-779d-9107-c0e3604b7540",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-75bd-782c-6e9e53f73562": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Straight.mesh.nasset/Road Straight City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-75be-4726-a75063af2609": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Junction.mesh.nasset/Road Junction City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7685-bd78-93c2eaca61bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Tax Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-76be-3f3a-fb7af460692d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-76a3-638a-c3be2456991a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Straight.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-75bd-782c-6e9e53f73562",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-76be-3f3a-fb7af460692d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Tax Wheel.mesh.nasset/Tax Wheel City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-779d-9107-c0e3604b7540": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Straight Crossing.mesh.nasset/Road Straight Crossing City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-77ac-c269-da3b9dcee4db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Sedan Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7281-4106-1e8583702ff1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7892-2ed5-dc288b5b472f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road T Split.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7484-2d6e-acb483c6a380",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-79a3-c452-ce0e3ae86f5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Corner Curved.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7282-30c2-d35e41aa97a6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7a98-6474-0b2fee3f44e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Corner.mesh.nasset/Road Corner City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7a9f-1c5b-2b6bba559968": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Taxi Body.mesh.nasset/Taxi Body City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7d98-37ed-54ded7c32415": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Taxi Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7a9f-1c5b-2b6bba559968",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bec-7e8a-3a35-7bf68eedac82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Road Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bec-7a98-6474-0b2fee3f44e0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7082-e2f5-2922e409ad22": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Bench.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-7c80-06d6-de5dffedb41d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-70b2-94bd-774be462e74e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Box B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-7d9a-10f3-b527d213f870",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-70b7-be1d-3842303bdc65": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Streetlight.mesh.nasset/Streetlight City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-71b6-5dea-935678aeeeac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Concrete.mesh.nasset/Concrete City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-72a6-aa1b-c479cf440312": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Box A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-7b8e-2bd9-0969cb5aa540",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-72aa-c1d8-632e4f8221b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Watertower.mesh.nasset/Watertower City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-72b2-25d0-42967d81efb0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Watertower.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-72aa-c1d8-632e4f8221b5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-738d-375b-d822f4355250": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Trash B.mesh.nasset/Trash B City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7393-7cb1-8b144fcec8df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Fire Hydrant.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-76a9-9f1b-7534766b7491",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-739b-4086-1dd7abe84a8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-7491-7b92-6bfd5e50bb15",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7491-7b92-6bfd5e50bb15": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light C.mesh.nasset/Traffic Light C City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-74a7-abc9-e786df03f34c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light B.mesh.nasset/Traffic Light B City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-74b5-fdb1-7e3e063c961f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-75b0-833f-e094312495b9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-74bd-d406-69d291e51737": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Bush.mesh.nasset/Bush City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7593-486c-a35c846087cc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Trash A.mesh.nasset/Trash A City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-75b0-833f-e094312495b9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light A.mesh.nasset/Traffic Light A City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-76a9-58c2-d0a3deb8c620": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Concrete.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-71b6-5dea-935678aeeeac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-76a9-9f1b-7534766b7491": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Fire Hydrant.mesh.nasset/Fire Hydrant City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-77bc-e787-fc84368655e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Dumpster.mesh.nasset/Dumpster City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-788b-d250-6787c0547a97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Bush.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-74bd-d406-69d291e51737",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-788f-5677-00c176ed004f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Dumpster.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-77bc-e787-fc84368655e0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7b8e-2bd9-0969cb5aa540": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Box A.mesh.nasset/Box A City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7c80-06d6-de5dffedb41d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Bench.mesh.nasset/Bench City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7d81-a6b9-242c8ae50df1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Trash B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-738d-375b-d822f4355250",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7d88-baea-0dcd1a5fd9fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Streetlight.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-70b7-be1d-3842303bdc65",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7d9a-10f3-b527d213f870": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Box B.mesh.nasset/Box B City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7dba-187a-2c486b3d347c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Traffic Light B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-74a7-abc9-e786df03f34c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bed-7fb0-15b8-b3c0dd5c32fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Trash A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bed-7593-486c-a35c846087cc",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7098-8c7c-37e2c7b9c707": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building H.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7595-64c8-6d317029b1dd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-70b6-bfe6-b67f61fb455b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building G Clean.mesh.nasset/Building G Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-72a8-dd5f-78303d27b54d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building F.mesh.nasset/Building F City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-72bd-e441-c396201f5105": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building C.mesh.nasset/Building C City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7485-ba1b-ec601f621300": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building F Clean.mesh.nasset/Building F Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-748d-1ad7-3fdc9aa1b8e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building E.mesh.nasset/Building E City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7491-f254-08950f1b8b94": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building E Clean.mesh.nasset/Building E Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7595-64c8-6d317029b1dd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building H.mesh.nasset/Building H City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-75a0-d050-b539b96065e6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building C Clean.mesh.nasset/Building C Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-75a2-3e89-f47c6d590fbd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-72bd-e441-c396201f5105",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-76b9-89af-7d01cc3db8a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building G Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-70b6-bfe6-b67f61fb455b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-779b-7a9e-5937e9c53597": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building E.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-748d-1ad7-3fdc9aa1b8e0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7891-7bd8-b9e10e749f15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building C Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-75a0-d050-b539b96065e6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-79ac-35d2-84f945e40645": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7da6-6684-29da352b3ebd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-79ae-cc82-0ba7f116aed4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building B Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7a81-4fe4-1229580645a2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-79bf-4bba-22fc80adbffb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building A Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7cab-2fb1-171af3436547",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7a81-4fe4-1229580645a2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building B Clean.mesh.nasset/Building B Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7a8a-9dc8-a541b22119fb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building B.mesh.nasset/Building B City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7a94-b63a-27a829f3ec71": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building G.mesh.nasset/Building G City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7abe-c440-f3556c1c28e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building D.mesh.nasset/Building D City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7bab-3cf8-7d69a48ffbdb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building D Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7ca2-1c38-993e46c19f15",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7bbe-ca67-76499ab9a409": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building E Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7491-f254-08950f1b8b94",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7ca2-1c38-993e46c19f15": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building D Clean.mesh.nasset/Building D Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7ca8-93b0-65efda91db26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7a8a-9dc8-a541b22119fb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7cab-2fb1-171af3436547": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building A Clean.mesh.nasset/Building A Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7cbf-1e68-e51fd2aae3b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building G.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7a94-b63a-27a829f3ec71",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7da6-6684-29da352b3ebd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building A.mesh.nasset/Building A City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7db5-6208-6af7578e377b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building D.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7abe-c440-f3556c1c28e2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7e89-ceea-7d594ef9a781": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building F Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-7485-ba1b-ec601f621300",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bee-7fb9-2e16-c241ea96b3fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building F.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bee-72a8-dd5f-78303d27b54d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bef-7083-f27a-728d6a83f6e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building H Clean.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "0193b243-5bef-75bc-38af-0b5109284383",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b243-5bef-75bc-38af-0b5109284383": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_City_Bits.scene.nasset/Building H Clean.mesh.nasset/Building H Clean City Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b243-5bde-75af-a0c7-d037ff31d0c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193d83f-6e48-7fb3-5384-fdc3540f00bc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Downers_Grove_Thumb.tex.nasset"
+    },
+    "0193d83f-6fd5-7eba-b194-cc80541530c6": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "5895d86f-6941-4d98-a8fa-df8de532e304": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Downers Grove.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+        }
+    },
+    "7adc85bd-8694-4cbc-b3d5-a7b5157f42dd": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Downers Grove",
+        "thumbnail": "0193d83f-6e48-7fb3-5384-fdc3540f00bc",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "guid": "0193d83f-6fd5-7eba-b194-cc80541530c6",
+    "imported_assets": [
+        "0193b969-bd4f-7aac-fa6e-3a2d46b05c6b",
+        "0193b969-c005-7188-0114-6600672b15c3",
+        "4a9bd1ca-0b9d-4f5e-ae58-0ecbbe0af249"
+    ]
+}
