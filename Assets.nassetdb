@@ -1227,8 +1227,8 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Downers Grove.scene.nasset",
         "metadata": {
-            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
-            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.000000000000000000000,\"nearPlane\":0.1000000014901161193847,\"farPlane\":2048.0000000000000000000}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[6.3681693077087402343750,-2.059920310974121093750,4.6760149002075195312500],\"rotation\":[0.3827046751976013183593,-0.000000002859662062704,50.007667541503906250000]}"
         }
     },
     "7adc85bd-8694-4cbc-b3d5-a7b5157f42dd": {
@@ -1237,7 +1237,7 @@
         "name": "Downers Grove",
         "thumbnail": "0193d83f-6e48-7fb3-5384-fdc3540f00bc",
         "tags": [
-            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+            "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
         ]
     },
     "guid": "0193d83f-6fd5-7eba-b194-cc80541530c6",
