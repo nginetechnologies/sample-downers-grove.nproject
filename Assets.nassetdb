@@ -1222,6 +1222,12 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "06ec3d3e-801d-4b1d-b345-4b79ee9ff296": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Materials/M_Downers_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+    },
     "5895d86f-6941-4d98-a8fa-df8de532e304": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
