@@ -1246,6 +1246,14 @@
             "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
         ]
     },
+    "b6d0a1d3-89df-4a16-90b2-ad6e4ce9e0fc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Black.mtli.nasset",
+        "thumbnail": "ff0f0d7f-c1d6-d855-b656-93d946f49fb4",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "guid": "0193d83f-6fd5-7eba-b194-cc80541530c6",
     "imported_assets": [
         "0193b969-bd4f-7aac-fa6e-3a2d46b05c6b",
